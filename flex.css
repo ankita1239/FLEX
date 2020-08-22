@@ -1,0 +1,88 @@
+
+h1{
+	font-style: lato;
+	font-size: 23px;
+	border-style:solid ;
+	border-color:#EC7063;
+	background-color:#EC7063;
+	border-width:20px 5px;
+
+}
+aside{
+	width: 20%;
+	margin-top: -14px;
+	padding-right:20px;
+	margin-right: 20px;
+	float: left;
+	font-style: arial;
+	background-color: #D7BDE2;
+	}
+	aside h2{
+	height: 460px;
+	position: relative;
+	 top:225px;
+
+
+}
+.content{
+	
+	display: flex;
+	flex-wrap: wrap;
+}
+.one{
+margin-top: 0 auto;
+	width: 50%;
+height: 200px;
+	background-color: #D4E6F1;
+	margin-left: 20px;
+	margin-right: 90px;
+
+}
+
+.two
+{
+	margin-top: -200px;
+	width: 50%;
+height: 200px;
+	background-color: #D4E6F1;
+	margin-left: 565px;
+	
+	
+}
+
+.three
+{
+	margin-top: 90px;
+	width: 33%;
+height: 185px;
+	background-color: #D4E6F1;
+	margin-left: 20px;
+	
+}
+.four
+{
+	margin-top: -185px;
+	width: 33%;
+height: 185px;
+	background-color: #D4E6F1;
+	margin-left: 370px;
+
+}
+.five
+{
+	margin-top: -185px;
+	width: 40%;
+height: 185px;
+	background-color:#D4E6F1;
+	margin-left: 720px;
+	
+}
+h3{
+	font-style: lato;
+	font-size: 20px;
+	border-style: solid;
+	border-color:#EC7063;
+	background-color:#EC7063;
+	border-width:20px 5px;
+	margin-top:10px;
+}
